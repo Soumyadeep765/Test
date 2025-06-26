@@ -1,0 +1,13 @@
+{
+  "name": "dinspireapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/quote.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
